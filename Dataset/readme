@@ -1,0 +1,2 @@
+This repository contains various benchmarks for a project. It's important to note that only the second benchmark utilizes observed data. 
+The other benchmarks in this repository employ the Partial Differential Equation (PDE) residual as loss functions.
