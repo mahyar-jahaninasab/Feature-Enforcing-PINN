@@ -1,4 +1,4 @@
-Mahyar Jahani-nasab, Bijarchi Mohammad Ali, Enhancing convergence speed with feature enforcing physics-informed neural networks using boundary conditions as prior knowledge. Sci Rep 14, 23836 (2024).
+Citation: Mahyar Jahani-nasab, Bijarchi Mohammad Ali, "Enhancing convergence speed with feature enforcing physics-informed neural networks using boundary conditions as prior knowledge." Sci Rep 14, 23836 (2024).
 
 
 # Enhancing Convergence Speed with Feature-Enforcing Physics-Informed Neural Networks: Utilizing Boundary Conditions as Prior Knowledge for Faster Convergence
